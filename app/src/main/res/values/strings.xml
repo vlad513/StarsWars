@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name">Имя </string>
+    <string name="gender">Пол </string>
+    <string name="starship">Количество пилотируемых кораблей </string>
+    <string name="population">Население </string>
+    <string name="planet">Планета </string>
+    <string name="diametr">Диаметр планеты </string>
+
+</resources>
